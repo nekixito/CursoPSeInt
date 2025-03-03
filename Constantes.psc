@@ -12,4 +12,11 @@ Algoritmo Constantes
 	//No deberia de modificarse el valor de una constante
 	//SEGUNDOS_POR_MINUTO = 70
 	//Imprimir SEGUNDOS_POR_MINUTO
+	
+	//Definir variables de manera simplificada
+	mi_variable_simplificada = 'Hola'
+	mi_variable_entera = 5
+	
+	Imprimir mi_variable_simplificada
+	Imprimir mi_variable_entera
 FinAlgoritmo
